@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi, I'm Shravya 👋
 
-<!--
-**shravya2607/shravya2607** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science (2nd Year)  
+💻 Interested in Machine Learning, Data Science & Web Development  
+🌱 Currently learning Python, DSA & ML fundamentals  
+🚀 Building projects step by step
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- Python | Java | HTML | CSS | JavaScript
+- NumPy | Pandas | Matplotlib
+- Git | GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Goals
+- Solve DSA problems consistently
+- Build strong ML projects
+- Improve GitHub & LinkedIn profile
+
+✨ Learning in public, one commit at a time.
+
